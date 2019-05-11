@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IMDBApi</string>
+    <string name="whatYearString">The most popular movies of:</string>
+    <string name="submit">Submit</string>
+    <string name="movieTitle">Title</string>
+    <string name="contentDescriptionBanner">Shows a picture of the movie.</string>
+    <string name="contentDescriptionCover">Shows banner of the movie.</string>
+    <string name="star">Star</string>
+    <string name="rating">Rating</string>
+    <string name="release">Release</string>
+</resources>
